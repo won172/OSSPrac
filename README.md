@@ -7,3 +7,4 @@
 - Content : Git & Github
     - Git Basic
     - Git Workflow
+    - Git commands
