@@ -9,5 +9,6 @@
     - Git Workflow
     - Git commands
 # OSSPrac
-fetch & merge
-A
+fetch & merge  
+A  
+B  
